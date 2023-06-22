@@ -57,7 +57,7 @@ body{
   transition: all ease .3s;
 }
 
-.container.leftSide button:hover{
+.container .leftSide button:hover{
   opacity: .5;
 }
 
